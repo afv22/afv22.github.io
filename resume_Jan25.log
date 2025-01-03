@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  3 JAN 2025 13:22
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  3 JAN 2025 13:26
  restricted system commands enabled.
-**/Users/edge/Documents/resume/resume_Nov24
-(/Users/edge/Documents/resume/resume_Nov24.tex
+**/Users/edge/Documents/resume/resume_Jan25
+(/Users/edge/Documents/resume/resume_Jan25.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
@@ -894,8 +894,8 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 )
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 12.
- (./resume_Nov24.aux)
-\openout1 = resume_Nov24.aux
+ (./resume_Jan25.aux)
+\openout1 = resume_Jan25.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -1033,10 +1033,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 12.
-(./resume_Nov24.out) (./resume_Nov24.out)
+(./resume_Jan25.out) (./resume_Jan25.out)
 \@outlinefile=\write5
 
-\openout5 = resume_Nov24.out
+\openout5 = resume_Jan25.out
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 14.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/sc' will be
@@ -1096,12 +1096,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--138
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume_Nov24.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume_Jan25.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `resume_Nov24.out' has not changed.
+Package rerunfilecheck Info: File `resume_Jan25.out' has not changed.
 (rerunfilecheck)             Checksum: 8AAF6FC8545190908C3A2CB32DA9D9C9;357.
 )
 
@@ -1115,7 +1115,7 @@ Here is how much of LuaTeX's memory you used:
  70 fonts using 21072183 bytes
  117i,8n,142p,416b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Nov24.pdf (1 page, 45504 bytes).
+Output written on resume_Jan25.pdf (1 page, 45504 bytes).
 
 PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
