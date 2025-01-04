@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  3 JAN 2025 13:30
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  4 JAN 2025 11:33
  restricted system commands enabled.
 **/Users/edge/Documents/resume/resume_Jan25
 (/Users/edge/Documents/resume/resume_Jan25.tex
@@ -1052,45 +1052,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 17.
+(Font)              scaled to size 12.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 17.
+(Font)              scaled to size 12.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/sc' will be
-(Font)              scaled to size 12.0pt on input line 17.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 18.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 18.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 19.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 19.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
+(Font)              scaled to size 12.0pt on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 54.
+(Font)              <9> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
+(Font)              <5> on input line 55.
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 55.
 
-Overfull \hbox (26.77686pt too wide) in paragraph at lines 54--54
+Overfull \hbox (26.77686pt too wide) in paragraph at lines 55--55
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+
+ []
+
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 61.
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 62.
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--135
+Underfull \hbox (badness 10000) in paragraph at lines 138--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
 
  []
 
@@ -1102,20 +1102,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `resume_Jan25.out' has not changed.
-(rerunfilecheck)             Checksum: 8AAF6FC8545190908C3A2CB32DA9D9C9;357.
+(rerunfilecheck)             Checksum: B55A74AE0F29C9D3F58B719B9E4DAEB4;357.
 )
 
 Here is how much of LuaTeX's memory you used:
  25656 strings out of 476447
- 125027,1977958 words of node,token memory allocated
+ 156290,1977958 words of node,token memory allocated
  443 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 54 glue_spec, 5 attribute_list, 2 write nodes
-   avail lists: 2:784,3:434,4:423,5:573,6:71,7:13570,8:2,9:557,10:12,11:1311
+   avail lists: 2:808,3:440,4:435,5:603,6:71,7:14087,8:2,9:563,10:12,11:1348
  47159 multiletter control sequences out of 65536+600000
  70 fonts using 21072183 bytes
  117i,8n,142p,416b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Jan25.pdf (1 page, 45534 bytes).
+Output written on resume_Jan25.pdf (1 page, 46446 bytes).
 
 PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream

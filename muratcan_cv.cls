@@ -45,14 +45,15 @@
 \newcommand\headerview{
   \hfill
   \begin{minipage}{0.65\linewidth} % extend header length here
+    \bigskip
     \center \name \\[0.15cm]
     \contact
   \end{minipage}
   \hfill
 }
 
-\newcommand{\githubview}{\href{\@linkedinaccount}{\ \faLinkedin\ \ \footnotesize Linkedin}}
-\newcommand{\linkedinview}{\href{\@githubaccount}{\footnotesize Github \ \faGithub\ \ }}
+\newcommand{\githubview}{\href{https://www.linkedin.com/in/\@linkedinaccount}{\ \faLinkedin\ \ \footnotesize \@linkedinaccount}}
+\newcommand{\linkedinview}{\href{https://github.com/\@githubaccount}{\footnotesize \@githubaccount \ \ \faGithub\ \ }}
 
 \newcommand{\name}{%
   {\LARGE \color{themecolor} \@firstname \ \textsc{\@lastname}}
@@ -103,7 +104,7 @@
 }
 
 \newcommand{\explanation}[2]{%
-  \mbox { \hspace{1.2em} \footnotesize \emph{#1}} \hfill \datetext{#2}\\[0.01cm] %
+  \mbox { \hspace{1.2em} \footnotesize \emph{#1}} \hfill \datetext{#2}\\[0.1cm] %
 }
 
 \newcommand{\explanationdetail}[1]{%
@@ -123,3 +124,8 @@
     \end{tabular}
   }
 }
+
+% \newcommand\summary[1]{%
+%   \section{Summary}
+%   \textbf{#1}
+% }
