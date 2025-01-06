@@ -111,6 +111,10 @@
   \indent \indent \begin{minipage}{0.87\linewidth} \footnotesize #1 \end{minipage} \\[0.1cm]
 }
 
+\newcommand{\textblock}[1]{%
+  \indent \explanationdetail{#1}
+}
+
 \newcommand\createskill[2]{%
   \textbf{#1} & #2
 }

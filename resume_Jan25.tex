@@ -1,6 +1,6 @@
 \documentclass{muratcan_cv}
 
-\setname{Andrew Vagliano}{}
+\setname{Andrew}{Vagliano}
 \setaddress{Washington, DC}
 \setmobile{+1 860-806-3910}
 \setmail{andrew.vagliano1@gmail.com}
@@ -14,11 +14,15 @@
 \headerview
 \vspace{1ex}
 %
-% \section{Summary}
-% \explanationdetail{
-%     \smallskip
-%     \bigskip
-% }
+\section{Summary}
+\textblock{
+    \smallskip
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus lacus vitae tempus
+    bibendum. Quisque et erat non libero porttitor faucibus nec vitae velit. Quisque dignissim
+    dolor erat, sed pulvinar leo fermentum scelerisque. Nulla malesuada vestibulum mauris eget
+    congue. Sed at tristique purus. Sed feugiat tempus mauris.
+    \smallskip
+}
 %
 \section{Skills}
 \newcommand{\skillone}{\createskill{Languages}{
@@ -33,7 +37,6 @@
 \newcommand{\skilltwo}{\createskill{Technologies}{
         React \cpshalf
         GraphQL \cpshalf
-        Cloud Development \cpshalf
         Dataswarm / Airflow \cpshalf
         AWS
     }}
@@ -49,13 +52,13 @@
         Motorsports \cpshalf
         Jazz \& Bluegrass Guitar \cpshalf
         College Football \cpshalf
-        Food \& Cooking
+        Food \& Cooking \cpshalf
+        CTFs
     }}
 %
 \createskills{\skillone, \skilltwo, \skillthree, \skillfour}
 \vspace{-3mm}
 %
-% 
 \section{Experience}
 %
 \datedexperience{Meta Platforms, Inc.}{Sep 2021 - Sep 2024}
@@ -63,21 +66,18 @@
 \explanationdetail{
     \smallskip
     \begin{itemize}
-        \item Served as the engineering expert on intelligence teams across multiple problem
-              spaces, rapidly prototyping bespoke tools, identifying and standardizing cross-team
-              solutions, and representing investigator needs to external engineering teams to
-              ensure scalable, problem-specific outcomes.
+        \item Served as engineering lead on trust \& safety intelligence teams across multiple
+              problem spaces; prototyped tools, standardized workflows across teams, and
+              advocated investigator needs to external engineering teams for scaled solutions.
               %
-        \item Designed and deployed a scalable signal-based system to identify and escalate
-              malicious actors, coordinating with SMEs, engineering, legal, policy, and
-              investigative teams to ensure high precision and recall; defined performance
-              metrics, established infrastructure for decision-making and accountability,
-              and influenced the system's adoption across other problem spaces.
+        \item Created a signal-based system to define and identity malicious behavior; coordinated SME
+              alignment, defined performance metrics with policy teams, built infrastructure to
+              aggregate technical and manual decisions, and managed deployment to scaled human review teams.
               %
-        \item Developed AI system to detect and modify egregious content to minimize
-              psychological impact on content moderators, improving employee retention
-              and review speed; led cross-functional collaboration with design, legal,
-              and product teams to align on requirements, execution, and deployment.
+        \item Developed an AI system to detect and modify egregious content to minimize psychological
+              impact on content moderators, improving employee retention and review speed; led
+              cross-functional collaboration with design, legal, product, and review operations
+              teams to align on requirements, execution, and deployment.
               %
         \item Defined analytical requirements and collaborated with our human reviewer
               operations team to design a testing procedure for identifying miscalibration
@@ -92,10 +92,8 @@
               an ecosystem of hundreds of legacy data pipelines, tools, and systems, balancing
               rapid fixes with long-term systemic solutions.
               %
-        \item Mentored new hires as an onboarding lead, curating tasks and projects to
-              guide their understanding of internal workflows and tooling while
-              facilitating connections with key teams; conducted coding interviews to
-              evaluate applicants and promote team growth.
+        \item Mentored new hires by curating onboarding tasks and facilitating connections with
+              key teams; conducted coding interviews to evaluate applicants and promote team growth.
               %
     \end{itemize}
     \smallskip
@@ -107,13 +105,13 @@
     \smallskip
     \begin{itemize}
         %
-        \item Developed a novel application of a generic account clustering system to identify and
-              classify decentralized conspiracy networks, driving one of the largest takedowns
-              of a dangerous conspiracy movement in the company's history.
+        \item Adapted an account clustering system to surface and classify decentralized conspiracy
+              networks, enabling one of the company's then-largest takedowns of a dangerous conspiracy
+              movement.
               %
-        \item Designed and implemented integrations with vendors and OSINT data sources, enhancing
-              internal tooling to improve situational awareness and off-platform coverage for
-              investigations; collaborated with vendor-management teams to secure data access.
+        \item Integrated OSINT sources and vendor data with internal tooling to improve situational
+              awareness and off-platform investigative coverage; collaborated with vendor-management
+              teams to secure data access.
               %
     \end{itemize}
     \smallskip
@@ -125,9 +123,9 @@
     \smallskip
     \begin{itemize}
         %
-        \item Designed and implemented the development pipeline for an ML model leveraging NLP
-              techniques to predict and identify malicious sequences of system calls in continuous
-              network traffic, addressing the challenge of unstructured and variable call patterns.
+        \item Developed an ML pipeline for a model leveraging NLP techniques to predict and identify
+              malicious sequences of system calls in continuous network traffic, addressing the
+              challenge of unstructured and variable call patterns.
               %
     \end{itemize}
     \smallskip
@@ -136,14 +134,20 @@
 \section{Education}
 \smallskip
 \datedexperience{Northwestern University, McCormick School of Engineering}{2017 - 2021}
-\explanation{Computer Science, B.S. \cpshalf Minor in International Studies \cpshalf Pi Kappa Alpha Fraternity}{Evanston, IL}
+\explanation{
+    Computer Science, B.S. \cpshalf
+    International Studies Minor \cpshalf
+    Pi Kappa Alpha Fraternity
+}{Evanston, IL}
 %
 \datedexperience{The Hotchkiss School}{2013 - 2017}
 \explanation{Secondary School Diploma}{Lakeville, CT}
 %
 \section{Publications}
 \smallskip
-\datedexperience{Feature Extraction Based on Word Embedding Models for Intrusion Detection in Network Traffic}{2020}
+\datedexperience{
+    Feature Extraction Based on Word Embedding Models for Intrusion Detection in Network Traffic
+}{2020}
 \explanation{Journal of Surveillance, Security, and Safety}{}
 %
 \end{document}
