@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.6)  7 JAN 2025 13:25
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.6)  7 JAN 2025 13:37
  restricted system commands enabled.
 **c:/Users/Andrew/Documents/resume/resume_Jan25
 (c:/Users/Andrew/Documents/resume/resume_Jan25.tex
@@ -1281,39 +1281,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 58.
+(Font)              <9> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 58.
+(Font)              <5> on input line 59.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 58.
+(Font)              scaled to size 9.0pt on input line 59.
 
-Overfull \hbox (26.77686pt too wide) in paragraph at lines 58--58
+Overfull \hbox (26.77686pt too wide) in paragraph at lines 59--59
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
  []
 
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 10.0pt on input line 64.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 64.
+(Font)              scaled to size 9.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 64.
+(Font)              scaled to size 10.95pt on input line 65.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--133
+Underfull \hbox (badness 10000) in paragraph at lines 64--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--144
+Underfull \hbox (badness 10000) in paragraph at lines 136--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--151
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
 
  []
 
@@ -1335,7 +1335,7 @@ Here is how much of LuaTeX's memory you used:
  443 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 54 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 2:838,3:467,4:441,5:612,6:80,7:13964,8:2,9:590,10:7,11:1336
+   avail lists: 2:842,3:467,4:447,5:612,6:80,7:13991,8:2,9:590,10:7,11:1336
  47106 multiletter control sequences out of 65536+600000
  70 fonts using 21072183 bytes
  117i,8n,140p,420b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1344,7 +1344,7 @@ ns-Italic.ttf><C:/Users/Andrew/AppData/Local/Programs/MiKTeX/fonts/truetype/goog
 le/noto/NotoSans-Bold.ttf><C:/Users/Andrew/AppData/Local/Programs/MiKTeX/fonts/o
 pentype/public/fontawesome/FontAwesome.otf><C:/Users/Andrew/AppData/Local/Progra
 ms/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Jan25.pdf (1 page, 52399 bytes).
+Output written on resume_Jan25.pdf (1 page, 52423 bytes).
 
 PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 131072)
