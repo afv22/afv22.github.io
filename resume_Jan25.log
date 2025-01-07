@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.6)  6 JAN 2025 14:15
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.6)  7 JAN 2025 12:27
  restricted system commands enabled.
 **c:/Users/Andrew/Documents/resume/resume_Jan25
 (c:/Users/Andrew/Documents/resume/resume_Jan25.tex
@@ -1281,39 +1281,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 59.
+(Font)              <9> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 59.
+(Font)              <5> on input line 58.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 59.
+(Font)              scaled to size 9.0pt on input line 58.
 
-Overfull \hbox (26.77686pt too wide) in paragraph at lines 59--59
+Overfull \hbox (26.77686pt too wide) in paragraph at lines 58--58
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 
  []
 
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 64.
+(Font)              scaled to size 10.0pt on input line 63.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 65.
+(Font)              scaled to size 9.0pt on input line 64.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 65.
+(Font)              scaled to size 10.95pt on input line 64.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--134
+Underfull \hbox (badness 10000) in paragraph at lines 63--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--146
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
 
  []
 
@@ -1325,25 +1325,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--153
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-Package rerunfilecheck Warning: File `resume_Jan25.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume_Jan25.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  A7A638E23567253A25AE721501723F5A;435.
+Package rerunfilecheck Info: File `resume_Jan25.out' has not changed.
+(rerunfilecheck)             Checksum: A7A638E23567253A25AE721501723F5A;435.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25658 strings out of 476497
+ 25664 strings out of 476497
  156290,1977958 words of node,token memory allocated
  443 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 54 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 1:1,2:852,3:473,4:453,5:600,6:80,7:14126,8:2,9:599,10:8,11:1312
- 47100 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:850,3:476,4:447,5:618,6:80,7:14114,8:2,9:599,10:10,11:1339
+
+ 47106 multiletter control sequences out of 65536+600000
  70 fonts using 21072183 bytes
  117i,8n,140p,420b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Andrew/AppData/Local/Programs/MiKTeX/fonts/truetype/google/noto/NotoSa
@@ -1351,9 +1345,9 @@ ns-Italic.ttf><C:/Users/Andrew/AppData/Local/Programs/MiKTeX/fonts/truetype/goog
 le/noto/NotoSans-Bold.ttf><C:/Users/Andrew/AppData/Local/Programs/MiKTeX/fonts/o
 pentype/public/fontawesome/FontAwesome.otf><C:/Users/Andrew/AppData/Local/Progra
 ms/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Jan25.pdf (1 page, 51134 bytes).
+Output written on resume_Jan25.pdf (1 page, 52561 bytes).
 
-PDF statistics: 50 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 100000000)
 
