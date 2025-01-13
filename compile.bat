@@ -7,5 +7,5 @@ lualatex %1
 if not exist docs mkdir docs
 
 :: Move the PDF to the output directory
-set pdfname=%~n1.pdf
+set pdfname=AVagliano.pdf
 move "%~dp1%pdfname%" docs\
