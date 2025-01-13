@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  8 JAN 2025 17:22
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  13 JAN 2025 09:53
  restricted system commands enabled.
 **/Users/edge/Documents/resume/resume_Jan25
 (/Users/edge/Documents/resume/resume_Jan25.tex
@@ -1085,17 +1085,17 @@ LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 66.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--135
+Underfull \hbox (badness 10000) in paragraph at lines 65--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--146
+Underfull \hbox (badness 10000) in paragraph at lines 138--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
 
@@ -1112,15 +1112,15 @@ Package rerunfilecheck Info: File `resume_Jan25.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  25659 strings out of 476447
- 156290,1977958 words of node,token memory allocated
+ 156288,1977958 words of node,token memory allocated
  443 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 54 glue_spec, 5 attribute_list, 2 write nodes
-   avail lists: 1:1,2:846,3:467,4:453,5:612,6:80,7:14015,8:2,9:590,10:7,11:1336
+   avail lists: 1:1,2:846,3:467,4:453,5:615,6:80,7:14105,8:2,9:590,10:7,11:1354
  47161 multiletter control sequences out of 65536+600000
  70 fonts using 21072183 bytes
  117i,8n,142p,416b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Jan25.pdf (1 page, 47103 bytes).
+Output written on resume_Jan25.pdf (1 page, 47243 bytes).
 
 PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
