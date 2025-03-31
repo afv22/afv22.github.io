@@ -5,4 +5,4 @@ lualatex "$1"
 
 # Move the PDF to the output directory
 mkdir docs
-mv "${1%.tex}.pdf" docs/AVagliano.pdf
+mv "${1%.tex}.pdf" docs/AndrewVaglianoResume.pdf
