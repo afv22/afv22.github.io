@@ -52,8 +52,8 @@
   \hfill
 }
 
-\newcommand{\githubview}{\href{https://www.linkedin.com/in/\@linkedinaccount}{\ \faLinkedin\ \ \footnotesize \@linkedinaccount}}
-\newcommand{\linkedinview}{\href{https://github.com/\@githubaccount}{\footnotesize \@githubaccount \ \ \faGithub\ \ }}
+\newcommand{\linkedinview}{\href{https://www.linkedin.com/in/\@linkedinaccount}{\ \faLinkedin\ \ \footnotesize \@linkedinaccount}}
+\newcommand{\githubview}{\href{https://github.com/\@githubaccount}{\footnotesize \@githubaccount \ \ \faGithub\ \ }}
 
 \newcommand{\name}{%
   {\LARGE \color{themecolor} \@firstname \ \textsc{\@lastname}}
@@ -62,7 +62,8 @@
 \newcommand{\contact}{%
   {\small \@mail\ \cpshalf \@address \ \cpshalf \@mobile 
       \\%
-      \linkedinview \cpshalf \githubview \\
+      \linkedinview
+      \\%
     } % 
 }
 
