@@ -44,7 +44,7 @@
 % Header
 \newcommand\headerview{
   \hfill
-  \begin{minipage}{0.65\linewidth} % extend header length here
+  \begin{minipage}{0.85\linewidth} % extend header length here
     \bigskip
     \center \name \\[0.15cm]
     \contact
@@ -60,10 +60,7 @@
 }
 
 \newcommand{\contact}{%
-  {\small \@mail\ \cpshalf \@address \ \cpshalf \@mobile 
-      \\%
-      \linkedinview
-      \\%
+  {\small \@mail\ \cpshalf \@mobile \ \cpshalf \linkedinview
     } % 
 }
 
@@ -105,11 +102,11 @@
 }
 
 \newcommand{\explanation}[2]{%
-  \mbox { \hspace{1.2em} \footnotesize \emph{#1}} \hfill \datetext{#2}\\[0.1cm] %
+  \mbox { \hspace{1.2em} \footnotesize \emph{#1}} \hfill \datetext{#2}\\[0.03cm] %
 }
 
 \newcommand{\explanationdetail}[1]{%
-  \indent \indent \begin{minipage}{0.87\linewidth} \footnotesize #1 \end{minipage} \\[0.1cm]
+  \indent \indent \begin{minipage}{0.87\linewidth} \footnotesize #1 \end{minipage} \\[0.01cm]
 }
 
 \newcommand{\textblock}[1]{%

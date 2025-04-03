@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  30 MAR 2025 21:13
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  3 APR 2025 13:12
  restricted system commands enabled.
 **/Users/edge/Documents/resume/resume_Jan25
 (/Users/edge/Documents/resume/resume_Jan25.tex
@@ -1063,39 +1063,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 61.
+(Font)              <9> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 61.
+(Font)              <5> on input line 62.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 61.
+(Font)              scaled to size 9.0pt on input line 62.
 
-Overfull \hbox (26.77686pt too wide) in paragraph at lines 61--61
+Overfull \hbox (23.02391pt too wide) in paragraph at lines 62--62
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 
  []
 
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 67.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 67.
+(Font)              scaled to size 9.0pt on input line 68.
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 68.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--137
+Underfull \hbox (badness 10000) in paragraph at lines 67--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--148
+Underfull \hbox (badness 10000) in paragraph at lines 135--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--155
+Underfull \hbox (badness 10000) in paragraph at lines 168--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 
  []
 
@@ -1107,23 +1112,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `resume_Jan25.out' has not changed.
-(rerunfilecheck)             Checksum: A7A638E23567253A25AE721501723F5A;435.
+(rerunfilecheck)             Checksum: E514825F57AD42681001A090173221A0;561.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25658 strings out of 476447
- 156294,1977958 words of node,token memory allocated
+ 25660 strings out of 476447
+ 156292,1977958 words of node,token memory allocated
  443 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 54 glue_spec, 5 attribute_list, 2 write nodes
-   avail lists: 1:1,2:830,3:466,4:437,5:612,6:79,7:14210,8:2,9:589,10:7,11:1381
- 47160 multiletter control sequences out of 65536+600000
+   avail lists: 2:996,3:556,4:521,5:684,6:94,7:15191,8:2,9:679,10:9,11:1405
+ 47161 multiletter control sequences out of 65536+600000
  69 fonts using 20966255 bytes
  117i,8n,142p,416b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Jan25.pdf (1 page, 46765 bytes).
+Output written on resume_Jan25.pdf (1 page, 47620 bytes).
 
-PDF statistics: 67 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 131072)
- 56 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 131072)
+ 64 words of extra memory for PDF output out of 10000 (max. 100000000)
 
