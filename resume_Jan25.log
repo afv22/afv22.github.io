@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  3 APR 2025 13:12
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.25)  3 APR 2025 13:30
  restricted system commands enabled.
 **/Users/edge/Documents/resume/resume_Jan25
 (/Users/edge/Documents/resume/resume_Jan25.tex
@@ -1117,15 +1117,15 @@ Package rerunfilecheck Info: File `resume_Jan25.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  25660 strings out of 476447
- 156292,1977958 words of node,token memory allocated
+ 156290,1977958 words of node,token memory allocated
  443 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 54 glue_spec, 5 attribute_list, 2 write nodes
-   avail lists: 2:996,3:556,4:521,5:684,6:94,7:15191,8:2,9:679,10:9,11:1405
+   avail lists: 2:996,3:553,4:521,5:681,6:94,7:15215,8:2,9:676,10:9,11:1411
  47161 multiletter control sequences out of 65536+600000
  69 fonts using 20966255 bytes
  117i,8n,142p,416b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on resume_Jan25.pdf (1 page, 47620 bytes).
+Output written on resume_Jan25.pdf (1 page, 47568 bytes).
 
 PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
